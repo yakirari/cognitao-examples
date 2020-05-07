@@ -1,8 +1,8 @@
 # CogniTao Examples
 ![alt text](assets/images/cognitao.jpeg "CogniTao")
 * Make sure cognitao library is installed
-* For cognitao ROS1 examples see https://git.cogni.io/cognitao/cognitao_ros_examples .
-* For cognitao ROS2 examples see https://git.cogni.io/cognitao/cognitao_ros2_examples .
+* For cognitao ROS1 examples see https://github.com/cogniteam/cognitao_ros_examples/blob/master/README.md .
+* For cognitao ROS2 examples see https://github.com/cogniteam/cognitao_ros2_examples/blob/master/README.md .
 
 
 ## High level Components 
